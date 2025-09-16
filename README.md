@@ -38,7 +38,7 @@
 
 ### > ⚠️ This is a **BETA** branch and may contain unstable or untested features.
 
-- New Untested / Unstable Featured
+- New Untested / Unstable Features
 - Unfinished Things / Cut Corners
 - Experimental AHK logic
 - Refined slot validation
